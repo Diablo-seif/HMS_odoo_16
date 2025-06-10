@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_patient_patient,patient.patient,model_patient_patient,base.group_user,1,1,1,1
+access_doctors_doctors,doctors.doctors,model_doctors_doctors,base.group_user,1,1,1,1
+access_department_department,department.department,model_department_department,base.group_user,1,1,1,1
+access_patient_history_line,patient.history.line,model_patient_history_line,base.group_user,1,1,1,1
+
